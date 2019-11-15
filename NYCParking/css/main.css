@@ -82,7 +82,7 @@ p {
   margin-right: auto;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 100%) {
   body {
     padding: 15px;
 
