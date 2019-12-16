@@ -75,7 +75,7 @@ p {
 
 @media (max-width: 100%) {
   body {
-    padding: 30px;
+    padding: 10%; 
 
   }
   h1 {
