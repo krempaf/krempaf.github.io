@@ -73,13 +73,17 @@ p {
   margin-right: auto;
 }
 
-@media (max-width: 100%) {
+@media (max-width: 500px) {
   body {
-    padding: 10%; 
+    padding: 30px;
 
   }
   h1 {
-    font-size: 30px:
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 20px;
   }
 }
 
